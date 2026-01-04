@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="bg-gradient-to-r from-wedding-secondary to-white py-16 px-4">
       <div className="max-w-6xl mx-auto text-center">
         <h1 className="text-5xl md:text-7xl font-bold text-wedding-dark mb-6 font-serif">
-          Comparte Tus Recuerdos
+          Hernan & Johana
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 mb-8 max-w-3xl mx-auto">
           Ayúdanos a capturar cada momento especial de nuestro día.

@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <Navbar fluid className="bg-wedding-secondary shadow-md">
       <Navbar.Brand href="/">
-        <span className="self-center whitespace-nowrap text-3xl font-bold text-wedding-primary font-serif">
+        <span className="self-center whitespace-nowrap text-3xl font-bold font-serif">
           Nuestra Boda
         </span>
       </Navbar.Brand>

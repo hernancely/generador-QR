@@ -49,12 +49,6 @@ const Stats = () => {
           </h3>
           <p className="text-gray-600">Videos</p>
         </Card>
-        <Card className="text-center">
-          <h3 className="text-4xl font-bold text-purple-600">
-            {stats.totalSizeFormatted}
-          </h3>
-          <p className="text-gray-600">Tamaño Total</p>
-        </Card>
       </div>
     </div>
   );
