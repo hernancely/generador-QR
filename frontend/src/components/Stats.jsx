@@ -30,7 +30,7 @@ const Stats = () => {
 
   return (
     <div className="max-w-6xl mx-auto py-12 px-4">
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <Card className="text-center">
           <h3 className="text-4xl font-bold text-wedding-primary">
             {stats.totalFiles}
